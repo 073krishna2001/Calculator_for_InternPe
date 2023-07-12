@@ -2,11 +2,11 @@ const toggle = document.querySelector('.toggle')
 
 toggle.addEventListener('click', (e) => {
     const html = document.querySelector('html')
-    if(html.classList.contains('dark')){
+    if (html.classList.contains('dark')) {
         html.classList.remove('dark')
         e.target.innerHTML = 'Dark mode'
     }
-    else{
+    else {
         html.classList.add('dark')
         e.target.innerHTML = 'Light mode'
     }
@@ -20,7 +20,9 @@ function display(num) {
 }
 function calculate() {
     try {
-        outputScreen.value = eval(outputScreen.value);
+        let expression = outputScreen.value;
+        expression = expression.replace(/%/g, '/100');
+        outputScreen.value = eval(expression);
     }
     catch (err) {
         alert("Invalid")
