@@ -2,7 +2,7 @@
 This repository contains the source code and files for a simple calculator application. A simple yet useful calculator with theme styling that can easily execute the fundamental arithmetic operations needed for computations.
 
 
-## Demonstration -> [Live site](https://counsellor-startup.netlify.app/)
+## Demonstration -> [Live site](https://073krishna2001.github.io/Calculator_for_InternPe/)
 
 <table>
   <tr>
