@@ -1,8 +1,8 @@
-# Calculator_for_InternPe
+# Theme_Calculator
 This repository contains the source code and files for a simple calculator application. A simple yet useful calculator with theme styling that can easily execute the fundamental arithmetic operations needed for computations.
 
 
-## Demonstration -> [Live site](https://073krishna2001.github.io/Calculator_for_InternPe/)
+## Demonstration -> [Live site](https://073krishna2001.github.io/Theme_Calculator/)
 
 <table>
   <tr>
@@ -45,8 +45,8 @@ The images above showcase the different themes available for the calculator.
 
 To use the calculator locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/073krishna2001/Calculator_for_InternPe.git`
-2. Navigate to the project directory: `cd Calculator_for_InternPe`
+1. Clone the repository: `git clone https://github.com/073krishna2001/Theme_Calculator.git`
+2. Navigate to the project directory: `cd Theme_Calculator`
 3. Open the `index.html` file in your preferred web browser.
 
 
